@@ -51,3 +51,4 @@ contract 1sttoken {
 
 
 ## License
+WE ARE USING LICENSE-MIT
