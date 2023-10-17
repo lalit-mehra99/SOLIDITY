@@ -28,7 +28,7 @@ pragma solidity 0.8.18;
     5. Lastly, your burn function should have conditionals to make sure the balance of "sender" is greater than or equal 
        to the amount that is supposed to be burned.
 */
-contract 1sttoken {
+contract MyToken {
     // public variables here
     string public tokenname = "FUTURE COIN"; 
     string public tokenAbbrv = "FTC"; 
@@ -51,4 +51,4 @@ contract 1sttoken {
 
 
 ## License
-WE ARE USING LICENSE-MIT
+WE ARE USING LICENSE- MIT
